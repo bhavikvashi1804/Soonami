@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soonami</string>
+    <string name="header_date">Date</string>
+    <string name="header_event">Event</string>
+    <string name="header_tsunami_alert">alert</string>
+    <string name="alert_no">No alert</string>
+    <string name="alert_not_available">Not available data</string>
+    <string name="alert_yes">Yes alert</string>
+</resources>
